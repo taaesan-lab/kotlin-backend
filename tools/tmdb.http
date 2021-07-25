@@ -1,0 +1,20 @@
+GET https://{{API_TMDB}}/{{V4}}/list/7102420?api_key={{API_KEY}}
+Accept: application/json
+
+###
+
+
+GET https://{{API_TMDB}}/{{V3}}/configuration?api_key={{API_KEY}}
+Accept: application/json
+
+###
+
+
+GET https://{{API_TMDB}}/{{V3}}/movie/76341?api_key={{API_KEY}}
+Accept: application/json
+
+
+###
+GET https://{{API_TMDB}}/{{V3}}/trending/all/day?api_key={{API_KEY}}
+###
+GET https://{{API_TMDB}}/{{V3}}/movie/385128?api_key={{API_KEY}}
